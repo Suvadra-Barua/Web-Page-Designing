@@ -1,0 +1,52 @@
+for color
+1.html color codes
+2.flat ui colors
+3.color zilla addo
+4.hex to Rgb color converter
+
+metadata:
+1.Note: <meta> tags always go inside the <head> element.
+2.Setting The Viewport
+
+HTML5 introduced a method to let web designers take control over the viewport, through the <meta> tag.
+
+The viewport is the user's visible area of a web page. It varies with the device, and will be smaller on a mobile phone than on a computer screen.
+
+You should include the following <meta> viewport element in all your web pages:
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+A <meta> viewport element gives the browser instructions on how to control the page's dimensions and scaling.
+
+The width=device-width part sets the width of the page to follow the screen-width of the device (which will vary depending on the device).
+
+The initial-scale=1.0 part sets the initial zoom level when the page is first loaded by the browser.
+3.The <meta> tag provides metadata about the HTML document. Metadata will not be displayed on the page, but will be machine parsable.
+
+Block element:
+element ta jei line e ache setar purota dkhol kore nibe.so oi liner jkono jaigai element take set kora jabe. ex:<div>,<h2>
+inlign element:
+element ta jototuku tototuku jaiga dkhol korbe. ex: <a>
+
+#inlign to block,block to inlign possible 
+Meta elements are typically used to specify page description, keywords, author of the document, last modified, and other metadata.
+
+The metadata can be used by browsers (how to display content or reload page), search engines (keywords), or other web services.
+
+
+video:
+ .... video run kore na
+audio:
+mp3 format er jnn type mpeg
+MP3	audio/mpeg
+OGG	audio/ogg
+WAV	audio/wav
+
+Form elements:
+To select multiple option you have to put "multiple " attribute in "select" tag
+<datalist> tag er vitor <option> tag er closing tag nai
+method=post likhbo security purpose e. get na
+<input> tag er vitor required likhle oi field ta must be fill up kora lagbe.
+
+id r class er difference:same tag er vitor ekadhik class nea jai but id nea jau ekti
+entity: freeformatter.com e dhukbo.. icchamoto entity use korbo
+symbol:https://www.toptal.com/designers/htmlarrows/symbols/
